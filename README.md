@@ -1,2 +1,3 @@
 # merge-object
-Like Object.assign but more "natural"
+
+Like Object.assign but more natural
